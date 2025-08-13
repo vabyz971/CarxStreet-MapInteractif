@@ -3,6 +3,9 @@ import { LMap, LImageOverlay, LMarker } from '@vue-leaflet/vue-leaflet'
 import * as L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import type { CollectablesPoint } from '@/interfaces/CollectablesPoint'
+import collectables_car from '@/assets/img/collectables_tutorial_car.png'
+import collectables_car_check from '@/assets/img/collectables_tutorial_car_check.png'
+import sunset_city from '@/assets/img/AUQJQfv.png'
 
 const props = withDefaults(
   defineProps<{
@@ -28,13 +31,13 @@ function selectePoint(point: CollectablesPoint) {
 }
 
 const iconBase = new L.Icon({
-  iconUrl: '/public/img/collectables_tutorial_car.png',
+  iconUrl: collectables_car,
   iconSize: [72, 64],
   iconAnchor: [32, 32],
 })
 
 const iconCheck = new L.Icon({
-  iconUrl: '/public/img/collectables_tutorial_car_check.png',
+  iconUrl: collectables_car_check,
   iconSize: [72, 64],
   iconAnchor: [32, 32],
 })
@@ -55,7 +58,7 @@ const getIcon = (point: CollectablesPoint) => {
       :minZoom="0"
       :maxBounds="bounds"
     >
-      <l-image-overlay url="/public/img/AUQJQfv.png" :bounds="bounds" />
+      <l-image-overlay :url="sunset_city" :bounds="bounds" />
       <l-marker
         v-for="point in props.points"
         :key="point.id"

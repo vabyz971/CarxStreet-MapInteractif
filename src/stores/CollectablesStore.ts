@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
 import type { CollectablesPoint } from '@/interfaces/CollectablesPoint'
+import CoordonnePoint from '@/assets/data/CoordonnePoint.json?url'
 
 export const useCollectablesStore = defineStore('collectablesStore', {
   state: () => ({
@@ -18,7 +19,7 @@ export const useCollectablesStore = defineStore('collectablesStore', {
   actions: {
     async fetchCollectablesFiles() {
       try {
-        const res = await fetch('/public/CoordonnePoint.json')
+        const res = await fetch(CoordonnePoint)
         this.points = await res.json()
       } catch (error) {
         console.log(error)
