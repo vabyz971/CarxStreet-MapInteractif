@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 
-const props = defineProps({
-  maxValue: Number,
-  minValue: Number,
-})
+const props = defineProps<{
+  maxValue: number
+  minValue: number
+}>()
 
 const total = computed(() => Math.round((props.minValue / props.maxValue) * 100))
 </script>

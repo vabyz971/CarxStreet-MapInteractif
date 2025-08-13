@@ -7,7 +7,6 @@ import type { CollectablesPoint } from '@/interfaces/CollectablesPoint'
 const props = withDefaults(
   defineProps<{
     points: CollectablesPoint[]
-    selectedPoint: CollectablesPoint | null
   }>(),
   {
     points: () => [],

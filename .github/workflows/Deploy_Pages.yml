@@ -1,0 +1,33 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Or your main branch
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js (if needed for build)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24' # Or your required Node.js version
+
+      - name: Build project (if needed)
+        run: |
+          corepack enable pnpm # Enable pnpm package
+          pnpm install # Or your package manager's install command
+          pnpm run build # Or your build command, outputting to e.g., 'dist'
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist # Path to your built static files
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

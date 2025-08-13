@@ -27,8 +27,12 @@ export const useCollectablesStore = defineStore('collectablesStore', {
 
     toggleValid(collectables: CollectablesPoint) {
       const index = this.points.find((item) => item.id == collectables.id)
-      index.valid = !index.valid
-      index.isNew = false
+      if (index) {
+        index.valid = !index.valid
+        index.isNew = false
+      } else {
+        console.error('Element not found')
+      }
     },
   },
 })
