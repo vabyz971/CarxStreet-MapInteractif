@@ -55,7 +55,7 @@ const getIcon = (point: CollectablesPoint) => {
       :minZoom="0"
       :maxBounds="bounds"
     >
-      <l-image-overlay url="/public/map/AUQJQfv.png" :bounds="bounds" />
+      <l-image-overlay url="/public/img/AUQJQfv.png" :bounds="bounds" />
       <l-marker
         v-for="point in props.points"
         :key="point.id"
