@@ -6,36 +6,30 @@ on:
       - main # Or your main branch
 
 jobs:
-  build-and-deploy:
-
   deploy:
-    needs: build-and-deploy
-
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
-    permissions:
-      pages: write # to deploy to Pages
-      id-token: write # to verify the deployment originates from an appropriate source
-
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js (if needed for build)
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24' # Or your required Node.js version
+          node-version: '20' # Updated to a stable version
 
-      - name: Build project (if needed)
+      - name: Build project
         run: |
-          corepack enable pnpm # Enable pnpm package
-          pnpm install # Or your package manager's install command
-          pnpm run build # Or your build command, outputting to e.g., 'dist'
+          corepack enable pnpm
+          pnpm install
+          pnpm run build # Ensure this outputs to 'dist' or update the path below
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist # Path to your built static files
+          path: ./dist # Update this if your build output is different
 
       - name: Deploy to GitHub Pages
         id: deployment
