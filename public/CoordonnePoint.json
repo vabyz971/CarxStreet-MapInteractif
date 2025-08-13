@@ -1,0 +1,2490 @@
+[
+  {
+    "id": 1754945350902,
+    "name": "Point 4",
+    "lat": 59.5625,
+    "lng": 271.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945353957,
+    "name": "Point 5",
+    "lat": 68.8587452869243,
+    "lng": 185.4244672536791,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945356049,
+    "name": "Point 6",
+    "lat": 85.6712452869243,
+    "lng": 141.2994672536791,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945359338,
+    "name": "Point 7",
+    "lat": 130.48374528692432,
+    "lng": 185.1744672536791,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945360931,
+    "name": "Point 8",
+    "lat": 131.54624528692432,
+    "lng": 151.7994672536791,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945361940,
+    "name": "Point 9",
+    "lat": 131.60874528692432,
+    "lng": 148.6744672536791,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945364072,
+    "name": "Point 10",
+    "lat": 154.23374528692432,
+    "lng": 157.1744672536791,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945366165,
+    "name": "Point 11",
+    "lat": 163.92124528692432,
+    "lng": 138.9869672536791,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945367958,
+    "name": "Point 12",
+    "lat": 182.35874528692432,
+    "lng": 149.9869672536791,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945369314,
+    "name": "Point 13",
+    "lat": 179.73374528692432,
+    "lng": 129.8619672536791,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945370899,
+    "name": "Point 14",
+    "lat": 191.48374528692432,
+    "lng": 116.29946725367911,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945372097,
+    "name": "Point 15",
+    "lat": 197.23374528692432,
+    "lng": 114.17446725367911,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945374627,
+    "name": "Point 16",
+    "lat": 194.79624528692432,
+    "lng": 156.4869672536791,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945376604,
+    "name": "Point 17",
+    "lat": 205.54624528692432,
+    "lng": 158.7369672536791,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945378424,
+    "name": "Point 18",
+    "lat": 215.1875,
+    "lng": 125.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945379868,
+    "name": "Point 19",
+    "lat": 238.125,
+    "lng": 119.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945382302,
+    "name": "Point 20",
+    "lat": 272,
+    "lng": 104.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945383727,
+    "name": "Point 21",
+    "lat": 264.1875,
+    "lng": 135.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945385381,
+    "name": "Point 22",
+    "lat": 276.875,
+    "lng": 128.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945386676,
+    "name": "Point 23",
+    "lat": 281.4375,
+    "lng": 132,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945390010,
+    "name": "Point 24",
+    "lat": 330.0625,
+    "lng": 120.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945391385,
+    "name": "Point 25",
+    "lat": 348.625,
+    "lng": 114.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945392872,
+    "name": "Point 26",
+    "lat": 354.1875,
+    "lng": 129.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945394806,
+    "name": "Point 27",
+    "lat": 323.5,
+    "lng": 160.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945397887,
+    "name": "Point 28",
+    "lat": 309.75,
+    "lng": 176.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945398937,
+    "name": "Point 29",
+    "lat": 308.875,
+    "lng": 188.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945400135,
+    "name": "Point 30",
+    "lat": 323.25,
+    "lng": 190.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945401316,
+    "name": "Point 31",
+    "lat": 322.0625,
+    "lng": 195.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945402830,
+    "name": "Point 32",
+    "lat": 323.9375,
+    "lng": 200.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945404195,
+    "name": "Point 33",
+    "lat": 327.5625,
+    "lng": 210.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945406594,
+    "name": "Point 34",
+    "lat": 271.125,
+    "lng": 212.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945409157,
+    "name": "Point 35",
+    "lat": 248.3125,
+    "lng": 206.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945411057,
+    "name": "Point 36",
+    "lat": 225.5,
+    "lng": 198.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945413550,
+    "name": "Point 37",
+    "lat": 201.25,
+    "lng": 187,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945416727,
+    "name": "Point 38",
+    "lat": 155,
+    "lng": 217.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945421513,
+    "name": "Point 39",
+    "lat": 187.25,
+    "lng": 228.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945425767,
+    "name": "Point 40",
+    "lat": 229.125,
+    "lng": 248.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945427202,
+    "name": "Point 41",
+    "lat": 252,
+    "lng": 237.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945428663,
+    "name": "Point 42",
+    "lat": 263.875,
+    "lng": 238,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945435821,
+    "name": "Point 43",
+    "lat": 382.25,
+    "lng": 141.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945437318,
+    "name": "Point 44",
+    "lat": 384.25,
+    "lng": 113.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945438604,
+    "name": "Point 45",
+    "lat": 408.3125,
+    "lng": 119.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945440625,
+    "name": "Point 46",
+    "lat": 425.375,
+    "lng": 117.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945442139,
+    "name": "Point 47",
+    "lat": 436.3125,
+    "lng": 115.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945444581,
+    "name": "Point 48",
+    "lat": 450.9375,
+    "lng": 108.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945446007,
+    "name": "Point 49",
+    "lat": 459.8125,
+    "lng": 87.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945448405,
+    "name": "Point 50",
+    "lat": 485.5,
+    "lng": 87.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945449788,
+    "name": "Point 51",
+    "lat": 500.375,
+    "lng": 79.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945454303,
+    "name": "Point 52",
+    "lat": 544.375,
+    "lng": 140.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945457970,
+    "name": "Point 53",
+    "lat": 566.625,
+    "lng": 81.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945460325,
+    "name": "Point 54",
+    "lat": 567.75,
+    "lng": 78.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945461750,
+    "name": "Point 55",
+    "lat": 574.1875,
+    "lng": 80.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945463423,
+    "name": "Point 56",
+    "lat": 579.6875,
+    "lng": 79.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945464769,
+    "name": "Point 57",
+    "lat": 572.375,
+    "lng": 88.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945467517,
+    "name": "Point 58",
+    "lat": 590.125,
+    "lng": 115.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945468691,
+    "name": "Point 59",
+    "lat": 581.875,
+    "lng": 121.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945470090,
+    "name": "Point 60",
+    "lat": 578.625,
+    "lng": 123.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945475191,
+    "name": "Point 61",
+    "lat": 575.4375,
+    "lng": 176.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945480417,
+    "name": "Point 62",
+    "lat": 712.8125,
+    "lng": 112.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945481877,
+    "name": "Point 63",
+    "lat": 703.875,
+    "lng": 135.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945483102,
+    "name": "Point 64",
+    "lat": 699.25,
+    "lng": 139.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945485412,
+    "name": "Point 65",
+    "lat": 679.4375,
+    "lng": 152.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945486891,
+    "name": "Point 66",
+    "lat": 676.875,
+    "lng": 160.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945488703,
+    "name": "Point 67",
+    "lat": 664.5,
+    "lng": 165.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945493019,
+    "name": "Point 68",
+    "lat": 700.0625,
+    "lng": 200.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945496027,
+    "name": "Point 69",
+    "lat": 762.5,
+    "lng": 162.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945497184,
+    "name": "Point 70",
+    "lat": 764.25,
+    "lng": 177.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945500543,
+    "name": "Point 71",
+    "lat": 781.5,
+    "lng": 202.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945501969,
+    "name": "Point 72",
+    "lat": 799.3125,
+    "lng": 182.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945505382,
+    "name": "Point 73",
+    "lat": 825.625,
+    "lng": 271.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945508821,
+    "name": "Point 74",
+    "lat": 774.25,
+    "lng": 301.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945510081,
+    "name": "Point 75",
+    "lat": 774.375,
+    "lng": 308.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945513232,
+    "name": "Point 76",
+    "lat": 691.875,
+    "lng": 274.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945516759,
+    "name": "Point 77",
+    "lat": 642.75,
+    "lng": 224.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945519506,
+    "name": "Point 78",
+    "lat": 606.3125,
+    "lng": 241.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945521099,
+    "name": "Point 79",
+    "lat": 611.8125,
+    "lng": 249.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945522945,
+    "name": "Point 80",
+    "lat": 579.0625,
+    "lng": 263.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945527557,
+    "name": "Point 81",
+    "lat": 692.4375,
+    "lng": 326.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945528782,
+    "name": "Point 82",
+    "lat": 687.9375,
+    "lng": 330.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945530637,
+    "name": "Point 83",
+    "lat": 626.75,
+    "lng": 317.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945535206,
+    "name": "Point 84",
+    "lat": 554.375,
+    "lng": 287.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945536701,
+    "name": "Point 85",
+    "lat": 540.4375,
+    "lng": 288.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945542337,
+    "name": "Point 86",
+    "lat": 743.3125,
+    "lng": 403.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945543859,
+    "name": "Point 87",
+    "lat": 722.5,
+    "lng": 388.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945545428,
+    "name": "Point 88",
+    "lat": 717.9375,
+    "lng": 407,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945547395,
+    "name": "Point 89",
+    "lat": 694.3125,
+    "lng": 419.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945548856,
+    "name": "Point 90",
+    "lat": 690.1875,
+    "lng": 401.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945551053,
+    "name": "Point 91",
+    "lat": 681.125,
+    "lng": 392.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945552890,
+    "name": "Point 92",
+    "lat": 708.875,
+    "lng": 429.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945554220,
+    "name": "Point 93",
+    "lat": 718.5625,
+    "lng": 435,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945556225,
+    "name": "Point 94",
+    "lat": 707.0625,
+    "lng": 452.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945558965,
+    "name": "Point 95",
+    "lat": 666.875,
+    "lng": 476.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945560644,
+    "name": "Point 96",
+    "lat": 661.0625,
+    "lng": 491.875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945563934,
+    "name": "Point 97",
+    "lat": 659.8125,
+    "lng": 415.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945566034,
+    "name": "Point 98",
+    "lat": 649.5,
+    "lng": 440.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945567513,
+    "name": "Point 99",
+    "lat": 640.125,
+    "lng": 449.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945568764,
+    "name": "Point 100",
+    "lat": 654.25,
+    "lng": 458.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945570908,
+    "name": "Point 101",
+    "lat": 643.5,
+    "lng": 475.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945573096,
+    "name": "Point 102",
+    "lat": 621.4375,
+    "lng": 469.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945574349,
+    "name": "Point 103",
+    "lat": 617.125,
+    "lng": 491.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945575611,
+    "name": "Point 104",
+    "lat": 608.4375,
+    "lng": 470.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945577376,
+    "name": "Point 105",
+    "lat": 595.875,
+    "lng": 470.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945582556,
+    "name": "Point 106",
+    "lat": 585.3125,
+    "lng": 386.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945584403,
+    "name": "Point 107",
+    "lat": 570.5,
+    "lng": 403,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945585767,
+    "name": "Point 108",
+    "lat": 562.1875,
+    "lng": 406,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945586992,
+    "name": "Point 109",
+    "lat": 579.6875,
+    "lng": 415.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945589233,
+    "name": "Point 110",
+    "lat": 555.25,
+    "lng": 378.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945591395,
+    "name": "Point 111",
+    "lat": 552.4375,
+    "lng": 356.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945593416,
+    "name": "Point 112",
+    "lat": 540.5625,
+    "lng": 403.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945602333,
+    "name": "Point 113",
+    "lat": 781.375,
+    "lng": 584.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945606428,
+    "name": "Point 114",
+    "lat": 717.0625,
+    "lng": 694.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945608712,
+    "name": "Point 115",
+    "lat": 684.0625,
+    "lng": 660.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945611477,
+    "name": "Point 116",
+    "lat": 681.8125,
+    "lng": 631.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945612816,
+    "name": "Point 117",
+    "lat": 691.0625,
+    "lng": 614.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945616876,
+    "name": "Point 118",
+    "lat": 681.8125,
+    "lng": 726.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945621068,
+    "name": "Point 119",
+    "lat": 655.25,
+    "lng": 652,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945622455,
+    "name": "Point 120",
+    "lat": 658.6875,
+    "lng": 637.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945626144,
+    "name": "Point 121",
+    "lat": 633.625,
+    "lng": 729.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945627771,
+    "name": "Point 122",
+    "lat": 632.75,
+    "lng": 690.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945629653,
+    "name": "Point 123",
+    "lat": 613.25,
+    "lng": 714.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945633380,
+    "name": "Point 124",
+    "lat": 630.4375,
+    "lng": 646.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945635657,
+    "name": "Point 125",
+    "lat": 630,
+    "lng": 608.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945639707,
+    "name": "Point 126",
+    "lat": 619.375,
+    "lng": 669.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945642341,
+    "name": "Point 127",
+    "lat": 598.6875,
+    "lng": 649.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945644721,
+    "name": "Point 128",
+    "lat": 603,
+    "lng": 609.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945646963,
+    "name": "Point 129",
+    "lat": 595.25,
+    "lng": 595.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945648485,
+    "name": "Point 130",
+    "lat": 586.1875,
+    "lng": 620.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945649771,
+    "name": "Point 131",
+    "lat": 584.6875,
+    "lng": 623.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945651442,
+    "name": "Point 132",
+    "lat": 586.75,
+    "lng": 626.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945655625,
+    "name": "Point 133",
+    "lat": 591.3125,
+    "lng": 709.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945656903,
+    "name": "Point 134",
+    "lat": 562.625,
+    "lng": 707,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945659187,
+    "name": "Point 135",
+    "lat": 535.0625,
+    "lng": 697.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945661217,
+    "name": "Point 136",
+    "lat": 511.6875,
+    "lng": 658.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945663571,
+    "name": "Point 137",
+    "lat": 517.1875,
+    "lng": 636.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945667972,
+    "name": "Point 138",
+    "lat": 638.5,
+    "lng": 537.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945669530,
+    "name": "Point 139",
+    "lat": 633.25,
+    "lng": 535,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945671831,
+    "name": "Point 140",
+    "lat": 586.8125,
+    "lng": 547.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945673670,
+    "name": "Point 141",
+    "lat": 573.9375,
+    "lng": 535.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945675832,
+    "name": "Point 142",
+    "lat": 589.0625,
+    "lng": 524.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945677931,
+    "name": "Point 143",
+    "lat": 569.4375,
+    "lng": 567.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945681632,
+    "name": "Point 144",
+    "lat": 532.4375,
+    "lng": 590.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945683619,
+    "name": "Point 145",
+    "lat": 493.25,
+    "lng": 593.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945686848,
+    "name": "Point 146",
+    "lat": 509.75,
+    "lng": 550.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945688939,
+    "name": "Point 147",
+    "lat": 533.6875,
+    "lng": 512.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945690462,
+    "name": "Point 148",
+    "lat": 548.9375,
+    "lng": 519.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945692440,
+    "name": "Point 149",
+    "lat": 532.5,
+    "lng": 495.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945694995,
+    "name": "Point 150",
+    "lat": 528.875,
+    "lng": 473.875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945696517,
+    "name": "Point 151",
+    "lat": 522.375,
+    "lng": 478.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945699020,
+    "name": "Point 152",
+    "lat": 565.5,
+    "lng": 492.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945705259,
+    "name": "Point 153",
+    "lat": 501.4375,
+    "lng": 449.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945716382,
+    "name": "Point 154",
+    "lat": 512.125,
+    "lng": 239.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945717423,
+    "name": "Point 155",
+    "lat": 501,
+    "lng": 241.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945718456,
+    "name": "Point 156",
+    "lat": 500.75,
+    "lng": 246.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945719401,
+    "name": "Point 157",
+    "lat": 494.125,
+    "lng": 250.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945720583,
+    "name": "Point 158",
+    "lat": 509.8125,
+    "lng": 266.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945721755,
+    "name": "Point 159",
+    "lat": 498.125,
+    "lng": 271.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945722858,
+    "name": "Point 160",
+    "lat": 476.3125,
+    "lng": 259.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945724012,
+    "name": "Point 161",
+    "lat": 482.1875,
+    "lng": 248.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945725387,
+    "name": "Point 162",
+    "lat": 489.75,
+    "lng": 234.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945727408,
+    "name": "Point 163",
+    "lat": 482.5625,
+    "lng": 232.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945729149,
+    "name": "Point 164",
+    "lat": 478.875,
+    "lng": 228.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945730332,
+    "name": "Point 165",
+    "lat": 468.6875,
+    "lng": 224.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945731477,
+    "name": "Point 166",
+    "lat": 478.375,
+    "lng": 207.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945733586,
+    "name": "Point 167",
+    "lat": 446.4375,
+    "lng": 232.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945734680,
+    "name": "Point 168",
+    "lat": 439.25,
+    "lng": 240.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945735905,
+    "name": "Point 169",
+    "lat": 430.875,
+    "lng": 239.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945738145,
+    "name": "Point 170",
+    "lat": 423.375,
+    "lng": 217.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945739310,
+    "name": "Point 171",
+    "lat": 424.8125,
+    "lng": 212.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945740298,
+    "name": "Point 172",
+    "lat": 416,
+    "lng": 210.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945741864,
+    "name": "Point 173",
+    "lat": 420.875,
+    "lng": 187.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945743894,
+    "name": "Point 174",
+    "lat": 392,
+    "lng": 221.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945746257,
+    "name": "Point 175",
+    "lat": 408.9375,
+    "lng": 247.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945748523,
+    "name": "Point 176",
+    "lat": 446.375,
+    "lng": 267.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945749591,
+    "name": "Point 177",
+    "lat": 463.6875,
+    "lng": 270.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945751648,
+    "name": "Point 178",
+    "lat": 481.5625,
+    "lng": 288.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945753337,
+    "name": "Point 179",
+    "lat": 506.25,
+    "lng": 297.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945755823,
+    "name": "Point 180",
+    "lat": 455.8125,
+    "lng": 286.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945757161,
+    "name": "Point 181",
+    "lat": 450.0625,
+    "lng": 292.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945758902,
+    "name": "Point 182",
+    "lat": 429.4375,
+    "lng": 277.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945760243,
+    "name": "Point 183",
+    "lat": 415,
+    "lng": 281.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945761782,
+    "name": "Point 184",
+    "lat": 420.5625,
+    "lng": 284.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945762936,
+    "name": "Point 185",
+    "lat": 425.375,
+    "lng": 284.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945765876,
+    "name": "Point 186",
+    "lat": 434,
+    "lng": 300.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945769105,
+    "name": "Point 187",
+    "lat": 445.8125,
+    "lng": 324.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945770288,
+    "name": "Point 188",
+    "lat": 444.3125,
+    "lng": 329.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945771442,
+    "name": "Point 189",
+    "lat": 449.625,
+    "lng": 332.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945772982,
+    "name": "Point 190",
+    "lat": 489.0625,
+    "lng": 330.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945774373,
+    "name": "Point 191",
+    "lat": 487.8125,
+    "lng": 322.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945778066,
+    "name": "Point 192",
+    "lat": 351.5,
+    "lng": 202.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945779247,
+    "name": "Point 193",
+    "lat": 359.5,
+    "lng": 229.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945781680,
+    "name": "Point 194",
+    "lat": 357.4375,
+    "lng": 248,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945783344,
+    "name": "Point 195",
+    "lat": 360.5,
+    "lng": 276.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945784473,
+    "name": "Point 196",
+    "lat": 369.5625,
+    "lng": 282.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945785863,
+    "name": "Point 197",
+    "lat": 379.0625,
+    "lng": 274.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945787272,
+    "name": "Point 198",
+    "lat": 382.625,
+    "lng": 288.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945788462,
+    "name": "Point 199",
+    "lat": 393.4375,
+    "lng": 280.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945789687,
+    "name": "Point 200",
+    "lat": 394.25,
+    "lng": 275.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945791254,
+    "name": "Point 201",
+    "lat": 399.1875,
+    "lng": 294.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945793467,
+    "name": "Point 202",
+    "lat": 373.75,
+    "lng": 307.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945794666,
+    "name": "Point 203",
+    "lat": 363.1875,
+    "lng": 322.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945796364,
+    "name": "Point 204",
+    "lat": 369,
+    "lng": 327.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945800897,
+    "name": "Point 205",
+    "lat": 300.375,
+    "lng": 264.875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945802446,
+    "name": "Point 206",
+    "lat": 308.6875,
+    "lng": 270.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945805281,
+    "name": "Point 207",
+    "lat": 272.375,
+    "lng": 306.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945806952,
+    "name": "Point 208",
+    "lat": 321.4375,
+    "lng": 296.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945808598,
+    "name": "Point 209",
+    "lat": 317.3125,
+    "lng": 305.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945809901,
+    "name": "Point 210",
+    "lat": 329.25,
+    "lng": 319.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945813253,
+    "name": "Point 211",
+    "lat": 337,
+    "lng": 346.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945815012,
+    "name": "Point 212",
+    "lat": 317.5625,
+    "lng": 367.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945817305,
+    "name": "Point 213",
+    "lat": 307,
+    "lng": 393.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945819825,
+    "name": "Point 214",
+    "lat": 335.25,
+    "lng": 379.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945820937,
+    "name": "Point 215",
+    "lat": 339.5625,
+    "lng": 381.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945822197,
+    "name": "Point 216",
+    "lat": 342.4375,
+    "lng": 388.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945823510,
+    "name": "Point 217",
+    "lat": 350.3125,
+    "lng": 382.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945824700,
+    "name": "Point 218",
+    "lat": 349.625,
+    "lng": 378.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945825865,
+    "name": "Point 219",
+    "lat": 357.8125,
+    "lng": 376.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945828129,
+    "name": "Point 220",
+    "lat": 372.1875,
+    "lng": 360.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945829599,
+    "name": "Point 221",
+    "lat": 383.375,
+    "lng": 354.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945831279,
+    "name": "Point 222",
+    "lat": 396,
+    "lng": 352,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945832548,
+    "name": "Point 223",
+    "lat": 396.25,
+    "lng": 346.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945834500,
+    "name": "Point 224",
+    "lat": 419.25,
+    "lng": 350.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945835936,
+    "name": "Point 225",
+    "lat": 423.25,
+    "lng": 340.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945837275,
+    "name": "Point 226",
+    "lat": 433.8125,
+    "lng": 352.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945838543,
+    "name": "Point 227",
+    "lat": 441.5625,
+    "lng": 352.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945839960,
+    "name": "Point 228",
+    "lat": 450,
+    "lng": 356.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945842830,
+    "name": "Point 229",
+    "lat": 446.25,
+    "lng": 362.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945843987,
+    "name": "Point 230",
+    "lat": 425.25,
+    "lng": 360.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945845202,
+    "name": "Point 231",
+    "lat": 414.375,
+    "lng": 363.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945846427,
+    "name": "Point 232",
+    "lat": 423.8125,
+    "lng": 366.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945848397,
+    "name": "Point 233",
+    "lat": 434.0625,
+    "lng": 375.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945850269,
+    "name": "Point 234",
+    "lat": 445.6875,
+    "lng": 375.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945851966,
+    "name": "Point 235",
+    "lat": 415.375,
+    "lng": 388.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945854137,
+    "name": "Point 236",
+    "lat": 460.1875,
+    "lng": 406.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945855405,
+    "name": "Point 237",
+    "lat": 471.0625,
+    "lng": 402.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945857890,
+    "name": "Point 238",
+    "lat": 433.25,
+    "lng": 419.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945859029,
+    "name": "Point 239",
+    "lat": 432,
+    "lng": 422.875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945860629,
+    "name": "Point 240",
+    "lat": 443.25,
+    "lng": 425.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945862118,
+    "name": "Point 241",
+    "lat": 449.3125,
+    "lng": 427.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945863876,
+    "name": "Point 242",
+    "lat": 431.75,
+    "lng": 434.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945865609,
+    "name": "Point 243",
+    "lat": 431.125,
+    "lng": 442.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945866895,
+    "name": "Point 244",
+    "lat": 426.4375,
+    "lng": 449.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945867998,
+    "name": "Point 245",
+    "lat": 424.1875,
+    "lng": 455,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945869590,
+    "name": "Point 246",
+    "lat": 405,
+    "lng": 448.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945871369,
+    "name": "Point 247",
+    "lat": 445.4375,
+    "lng": 462.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945872618,
+    "name": "Point 248",
+    "lat": 451.5,
+    "lng": 467.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945874718,
+    "name": "Point 249",
+    "lat": 458.625,
+    "lng": 474.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945876696,
+    "name": "Point 250",
+    "lat": 463.5625,
+    "lng": 466.875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945878691,
+    "name": "Point 251",
+    "lat": 442.625,
+    "lng": 472.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945879942,
+    "name": "Point 252",
+    "lat": 440.625,
+    "lng": 473.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945881544,
+    "name": "Point 253",
+    "lat": 439.125,
+    "lng": 479.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945883031,
+    "name": "Point 254",
+    "lat": 440.375,
+    "lng": 484.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945884458,
+    "name": "Point 255",
+    "lat": 441.9375,
+    "lng": 482.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945887154,
+    "name": "Point 256",
+    "lat": 415.3125,
+    "lng": 494.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945889482,
+    "name": "Point 257",
+    "lat": 414.375,
+    "lng": 472.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945891477,
+    "name": "Point 258",
+    "lat": 392.75,
+    "lng": 462.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945892921,
+    "name": "Point 259",
+    "lat": 407.375,
+    "lng": 480.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945894356,
+    "name": "Point 260",
+    "lat": 392.5,
+    "lng": 487.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945896455,
+    "name": "Point 261",
+    "lat": 383.3125,
+    "lng": 507.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945897890,
+    "name": "Point 262",
+    "lat": 377.375,
+    "lng": 492.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945899631,
+    "name": "Point 263",
+    "lat": 411.1875,
+    "lng": 514,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945901548,
+    "name": "Point 264",
+    "lat": 427.8125,
+    "lng": 518.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945903553,
+    "name": "Point 265",
+    "lat": 409.6875,
+    "lng": 535.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945905031,
+    "name": "Point 266",
+    "lat": 400.9375,
+    "lng": 539.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945906528,
+    "name": "Point 267",
+    "lat": 377.75,
+    "lng": 522.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945908373,
+    "name": "Point 268",
+    "lat": 373.9375,
+    "lng": 536.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945913496,
+    "name": "Point 269",
+    "lat": 360,
+    "lng": 431.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945915488,
+    "name": "Point 270",
+    "lat": 364.0625,
+    "lng": 455,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945916372,
+    "name": "Point 271",
+    "lat": 357.1875,
+    "lng": 459.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945918209,
+    "name": "Point 272",
+    "lat": 332.1875,
+    "lng": 434.875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945919215,
+    "name": "Point 273",
+    "lat": 326.125,
+    "lng": 428.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945920153,
+    "name": "Point 274",
+    "lat": 319.5,
+    "lng": 430.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945921263,
+    "name": "Point 275",
+    "lat": 317.6875,
+    "lng": 436.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945924422,
+    "name": "Point 276",
+    "lat": 296.6875,
+    "lng": 432.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945925822,
+    "name": "Point 277",
+    "lat": 297.0625,
+    "lng": 448.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945927389,
+    "name": "Point 278",
+    "lat": 297.3125,
+    "lng": 466.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945929489,
+    "name": "Point 279",
+    "lat": 313.9375,
+    "lng": 496.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945930889,
+    "name": "Point 280",
+    "lat": 328.375,
+    "lng": 495.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945932350,
+    "name": "Point 281",
+    "lat": 336.8125,
+    "lng": 502.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945934652,
+    "name": "Point 282",
+    "lat": 302.0625,
+    "lng": 506.875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945936761,
+    "name": "Point 283",
+    "lat": 291.5625,
+    "lng": 499.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945938528,
+    "name": "Point 284",
+    "lat": 287.3125,
+    "lng": 513.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945939685,
+    "name": "Point 285",
+    "lat": 294.5625,
+    "lng": 524.875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945943587,
+    "name": "Point 286",
+    "lat": 328.875,
+    "lng": 536.4375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945944689,
+    "name": "Point 287",
+    "lat": 324.875,
+    "lng": 542,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945946719,
+    "name": "Point 288",
+    "lat": 373.1875,
+    "lng": 565.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945950701,
+    "name": "Point 289",
+    "lat": 459.5,
+    "lng": 556.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945953877,
+    "name": "Point 290",
+    "lat": 433.125,
+    "lng": 582.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945956012,
+    "name": "Point 291",
+    "lat": 447.875,
+    "lng": 612.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945957981,
+    "name": "Point 292",
+    "lat": 427.3125,
+    "lng": 599.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945959706,
+    "name": "Point 293",
+    "lat": 413.5625,
+    "lng": 591.375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945960913,
+    "name": "Point 294",
+    "lat": 405.9375,
+    "lng": 596.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945962164,
+    "name": "Point 295",
+    "lat": 396.5625,
+    "lng": 602,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945964395,
+    "name": "Point 296",
+    "lat": 391.3125,
+    "lng": 617.1875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945965918,
+    "name": "Point 297",
+    "lat": 379.8125,
+    "lng": 622.6875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945968202,
+    "name": "Point 298",
+    "lat": 399.6875,
+    "lng": 627,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945969707,
+    "name": "Point 299",
+    "lat": 434.5,
+    "lng": 628.0625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945971160,
+    "name": "Point 300",
+    "lat": 431.75,
+    "lng": 634.25,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945972481,
+    "name": "Point 301",
+    "lat": 429.0625,
+    "lng": 645.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945976454,
+    "name": "Point 302",
+    "lat": 343.625,
+    "lng": 635.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945978160,
+    "name": "Point 303",
+    "lat": 333.5625,
+    "lng": 634.8125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945980208,
+    "name": "Point 304",
+    "lat": 315.0625,
+    "lng": 633.875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945982133,
+    "name": "Point 305",
+    "lat": 311.1875,
+    "lng": 603.9375,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945983323,
+    "name": "Point 306",
+    "lat": 315,
+    "lng": 597.625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945984968,
+    "name": "Point 307",
+    "lat": 293.875,
+    "lng": 582.75,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945994717,
+    "name": "Point 308",
+    "lat": 272,
+    "lng": 517.3125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945996931,
+    "name": "Point 309",
+    "lat": 256.375,
+    "lng": 581.5,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754945998847,
+    "name": "Point 310",
+    "lat": 258.625,
+    "lng": 587.875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754946000406,
+    "name": "Point 311",
+    "lat": 264.125,
+    "lng": 600.875,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754946002400,
+    "name": "Point 312",
+    "lat": 239,
+    "lng": 567.125,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754946003476,
+    "name": "Point 313",
+    "lat": 243.375,
+    "lng": 562.5625,
+    "valid": false,
+    "isNew": true
+  },
+  {
+    "id": 1754946005043,
+    "name": "Point 314",
+    "lat": 246.125,
+    "lng": 566.6875,
+    "valid": false,
+    "isNew": true
+  }
+]
