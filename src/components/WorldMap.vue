@@ -49,15 +49,7 @@ const getIcon = (point: CollectablesPoint) => {
 
 <template>
   <div class="w-full h-full">
-    <l-map
-      class="rounded-lg"
-      :crs="crs"
-      :center="[500, 500]"
-      :zoom="1"
-      :maxZoom="3"
-      :minZoom="0"
-      :maxBounds="bounds"
-    >
+    <l-map :crs="crs" :center="[500, 500]" :zoom="1" :maxZoom="3" :minZoom="0" :maxBounds="bounds">
       <l-image-overlay :url="sunset_city" :bounds="bounds" />
       <l-marker
         v-for="point in props.points"
