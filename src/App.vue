@@ -18,7 +18,6 @@ onMounted(async () => {
   } catch (err) {
     console.log('Erreur API: ', err)
   }
-  is_expended.value = true
 })
 
 const handleCollectableSelect = (point: CollectablesPoint) => {
@@ -27,12 +26,12 @@ const handleCollectableSelect = (point: CollectablesPoint) => {
 
 const toggleSideBar = () => {
   is_expended.value = !is_expended.value
-  localStorage.setItem('is_expended', is_expended.value)
+  localStorage.setItem('is_expended', is_expended.value.toString())
 }
 </script>
 
-<template>
-  <div class="w-screen h-screen flex">
+<template class="dark">
+  <div class="w-screen h-screen flex bg-white dark:bg-black">
     <!--Side bar-->
     <div
       class="w-[720px] h-full bg-gray-200 text-white sidebar"
@@ -58,9 +57,9 @@ const toggleSideBar = () => {
     </div>
     <div class="w-full h-full bg-gray-400">
       <div
-        class="h-[50px] bg-gray-100 flex items-center shadow-sm px-[20px] w-full py-[10px] z-10 border-b"
+        class="h-[50px] bg-gray-900 flex items-center shadow-sm px-[20px] w-full py-[10px] z-10 border-b"
       >
-        <div class="cursor-pointer w-[30px]" @click="toggleSideBar">
+        <div class="cursor-pointer w-[30px] text-white" @click="toggleSideBar">
           <IconMenu />
         </div>
         <ProgressBar
